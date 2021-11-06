@@ -1,4 +1,4 @@
-# A_MilkyWay
+@A_MilkyWay
 
 version_0.2.rbxm - effect module file.
 
