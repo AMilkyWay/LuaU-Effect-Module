@@ -9,7 +9,7 @@ After you've done that, you can use a number of functions from inside of the mod
 
 Function list: 
 
-effects.basic(table) - Values: 
+effects.basic(table) - Table Values: 
 <
 Start CFrame, 
 Goal CFrame(Optional), 
@@ -25,7 +25,7 @@ String Mesh,
 Number Speed;
 >
 ---------------------------------------------------
-effects.ghost1(table) - Values:
+effects.ghost1(table) - Table Values:
 <
 Instance Part,
 Color3 Color;
