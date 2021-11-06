@@ -25,7 +25,7 @@ String Mesh,
 Number Speed;
 >
 ---------------------------------------------------
-effects.ghost1(table) - Table Values:
+effects.ghost(table) - Table Values:
 <
 Instance Part,
 Color3 Color;
