@@ -1,8 +1,8 @@
 @A_MilkyWay
 
-version_0_2.rbxm - effect module file.
+version_0_3.rbxm - effect module file.
 
-effect module version: 0.2
+effect module version: 0.3
 
 inside a source container write `effects = require(MODULE_PATH);` to get the module.
 After you've done that, you can use a number of functions from inside of the module.
