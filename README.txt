@@ -1,6 +1,6 @@
 @A_MilkyWay
 
-version_0.2.rbxm - effect module file.
+version_0_2.rbxm - effect module file.
 
 effect module version: 0.2
 
